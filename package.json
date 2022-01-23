@@ -1,5 +1,5 @@
 {
-  "name": "listener",
+  "name": "listener_leo",
   "version": "1.0.0",
   "description": "事件注册（可用作vue plugin）",
   "main": "index.js",
